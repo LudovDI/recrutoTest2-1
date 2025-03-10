@@ -1,0 +1,1 @@
+web: gunicorn random_code_service.wsgi --log-file -
